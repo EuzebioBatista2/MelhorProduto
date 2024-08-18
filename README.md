@@ -16,6 +16,7 @@ Projeto criado para realizar a consulta através de um arquivo de historico de v
 > Servidor:
 
 - Live server
+- MySql(id, produto, quantidade, data_venda)
 
 ## Comandos:
 
